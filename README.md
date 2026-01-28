@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **naheedsajjad/naheedsajjad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Naheed 👋
+
+🎓 Business Analyst  
+💻 Learning Web Development & APIs  
+🚀 Projects: HTML, CSS, JavaScript, Python  
+
+## Skills
+- HTML, CSS, JavaScript
+- Python, Flask
+- Git & GitHub
+
+## Projects
+- Personal Portfolio Website
+- Student Management System
+- API-based Web App
+
+📫 Reach me at: naheedsajjad@yahoo.com
+
